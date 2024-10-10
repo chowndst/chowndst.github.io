@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chowndst.github.io/sitemap.html.gz
+Sitemap: https://chowndst.github.io/app/sitemap.html.gz
+Sitemap: https://chowndst.github.io/assets/sitemap.html.gz
+Sitemap: https://chowndst.github.io/css/sitemap.html.gz
+Sitemap: https://chowndst.github.io/includes/sitemap.html.gz
+Sitemap: https://chowndst.github.io/item/sitemap.html.gz
+Sitemap: https://chowndst.github.io/src/sitemap.html.gz
